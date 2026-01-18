@@ -1,6 +1,6 @@
 # Equine Client Perspectives
 
-This repository is for the manuscript entitled "Understanding Equine Client Perceptions: Links Between Communication, Horse Role, Visit Type, and Beliefs About Professional Salaries and Expertise". Manuscript correspondence should be directed to Elpida Artemiou (elpida.artemiou at ttu.edu) and for statistical analysis/R code questions correspondence should be directed to Sarah Hooper (shooper at astate.edu).
+This repository is for the manuscript entitled **"Understanding Equine Client Perceptions: Links Between Communication, Horse Role, Visit Type, and Beliefs About Professional Salaries and Expertise"**. Manuscript correspondence should be directed to Elpida Artemiou (elpida.artemiou at ttu.edu) and for statistical analysis/R code questions correspondence should be directed to Sarah Hooper (shooper at astate.edu).
 
 Abstract: 
 Background: Equine client perceptions and expectations are an under researched, yet critical component of the veterinary–client relationship. This study aimed to better understand how equine clients perceive their veterinarians’ communication skills as well as client's perception related to context of the visit, the horse’s primary use, the veterinarian’s qualifications, the owner’s assumptions about veterinarian expertise, educational cost and salaries. 
