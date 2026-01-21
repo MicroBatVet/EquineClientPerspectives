@@ -12,3 +12,5 @@ Results: Two hundred and three owners consented to participate in the survey. Mo
 Limitations: This study assessed client perceptions in a limited area within the United States at select equine events. 
  
 Conclusions: Client expectations vary significantly based upon the purpose of the visit, suggesting that different types of appointments call for different levels of client involvement.  Expanding future research to include clients from rural areas and those who own companion, working or sports horses would allow meaningful comparisons of expectations across equine roles. 
+
+[![DOI](https://zenodo.org/badge/1136557155.svg)](https://doi.org/10.5281/zenodo.18328118)
